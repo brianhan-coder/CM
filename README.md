@@ -9,10 +9,11 @@ If you're in the United States or anywhere else has access to Google Services, p
 
 ## Work Locations and Offices
 ### Yale University | Department of Computer Science
+### Graph and Geometric Learning Lab
 10 Hillhouse Ave, Dunham Laboratory<br>
 New Haven, CT 06511 USA
 
-### Gerstein Lab
+### Yale University | Gerstein Lab
 226 Whitney Ave, Bass Center<br>
 New Haven, CT 06511 USA
 
