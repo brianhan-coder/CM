@@ -9,7 +9,6 @@ If you're in the United States or anywhere else has access to Google Services, p
 
 ## Work Locations and Offices
 ### Yale University | Department of Computer Science
-### Graph and Geometric Learning Lab
-10 Hillhouse Ave, Dunham Laboratory<br>
+10 Hillhouse Ave, Dunham Laboratory #237<br>
 New Haven, CT 06511 USA
 
