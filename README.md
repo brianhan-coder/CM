@@ -9,8 +9,7 @@ If you're in the United States or anywhere else has access to Google Services, p
 
 ## Work Locations and Offices
 ### Yale University
-#### Department of Computer Science
-#### School of Medicine | Biomedical Informatics and Data Science
+#### Department of Computer Science <br> School of Medicine | Biomedical Informatics and Data Science
 100 College St, F9 # 931.25<br>
 New Haven, CT 06510 USA
 
