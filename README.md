@@ -8,7 +8,9 @@ If you're in the United States or anywhere else has access to Google Services, p
 **[Reach out to me](https://forms.gle/KJQ5PFbfRzPN9q4t9)**
 
 ## Work Locations and Offices
-### Yale University | Department of Computer Science
-10 Hillhouse Ave, Dunham Laboratory #237<br>
-New Haven, CT 06511 USA
+### Yale University
+#### Department of Computer Science
+#### School of Medicine | Biomedical Informatics and Data Science
+100 College St, F9 # 931.25<br>
+New Haven, CT 06510 USA
 
