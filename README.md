@@ -1,5 +1,5 @@
 # Brian | Ling Han
-## [Home](https://www.linghan.me/)  ~  [CV](https://www.linghan.me/CV)  ~   [Publications](https://www.linghan.me/publications)  ~  [Research](https://www.linghan.me/research)  ~   Contact Me
+## [Home](https://www.linghan.me/)  |  [CV](https://www.linghan.me/CV)  |   [Publications](https://scholar.google.com/citations?user=SLMRZTUAAAAJ&hl=zh-CN)  |  [Research](https://www.linghan.me/research)  |   Contact Me
 
 ![image](https://media.licdn.com/dms/image/D4E16AQE1yfMF2smlXQ/profile-displaybackgroundimage-shrink_200_800/0/1675223891394?e=2147483647&v=beta&t=tLcv_ZBtOCTg1dWgEMtLO69RGPGF7ZGLJw6d7HZlYfk)
 
