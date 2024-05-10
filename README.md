@@ -14,7 +14,7 @@ You may also schedule a quick meeting with me, whether you're looking to collabo
 
 ## Work Locations and Offices
 ### Yale University
-#### Department of Computer Science <br> School of Medicine | Biomedical Informatics and Data Science
+#### SEAS | Department of Computer Science <br> YSM | Department of Biomedical Informatics and Data Science
 100 College St, F9 # 931.25<br>
 New Haven, CT 06510 USA
 
